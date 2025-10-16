@@ -7,10 +7,10 @@
 ---
 
 ### 🧠 Skills & Technologies
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, React-Router  
 - **Backend:** Node.js, Express.js, REST APIs, MongoDB  
-- **Tools:** Git, GitHub, Postman, Cloudinary, VS Code  
-- **Others:** Arduino, Embedded C, IoT  
+- **Tools:** Git, GitHub, Postman, Cloudinary, VS Code, Vercel, Render, Figma, Canva  
+- **Others:** Arduino, Embedded C, IoT, Python  
 
 ---
 
