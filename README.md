@@ -30,7 +30,7 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-dixit-892526346/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/rajeevdixit-16)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://portfolio-rajeevdixit.vercel.app/)
 
 ---
 ⭐️ *“Code. Create. Contribute.”*
