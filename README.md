@@ -22,8 +22,11 @@
 ---
 
 ### 📈 GitHub Stats
+
 ![Rajeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevdixit-16&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevdixit-16&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rajeevdixit-16&theme=tokyonight&hide_border=true)
+
 
 ---
 
