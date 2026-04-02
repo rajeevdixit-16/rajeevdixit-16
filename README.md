@@ -2,6 +2,7 @@
 
 🎓 B.Tech Student at MNNIT Allahabad  
 💻 Passionate about Web Development,Competitive Programming and AI & ML 
+
 🚀 Currently exploring MERN stack, AI-powered web applications and Machine Learning
 
 ---
