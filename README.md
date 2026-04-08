@@ -16,7 +16,7 @@
 
 ### 💡 Projects
 - 🖼️ **[ArtHive](https://github.com/rajeevdixit-16/ArtHive):** Online art-sharing platform with AI-powered tagging and real-time interactions  
-- 💪 **[CivicFix](https://github.com/rajeevdixit-16/CivicFix-AI):** An AI driven citizen first civic engagement platform  
+- 🏛️ **[CivicFix](https://github.com/rajeevdixit-16/CivicFix-AI):** An AI driven citizen first civic engagement platform  
 - 💼 **[Insider Jobs](https://github.com/rajeevdixit-16/Insider-Jobs):** Job search portal with filters and user authentication  
 
 ---
