@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajeev Dixit
 
-🎓 B.Tech Student at MNNIT Allahabad  
+🎓 B.Tech @ MNNIT Allahabad  
 💻 Passionate about Web Development,Competitive Programming and AI & ML 
 
 🚀 Currently exploring MERN stack, AI-powered web applications and Machine Learning
@@ -11,22 +11,24 @@
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, React-Router  
 - **Backend:** Node.js, Express.js, REST APIs, MongoDB  
 - **Tools:** Git, GitHub, Postman, Cloudinary, VS Code, Vercel, Render, Figma, Canva   
+- **Others:** Python, C, Machine Learning (Beginner)
+   
 
 ---
 
 ### 💡 Projects
-- 🖼️ **[ArtHive](https://github.com/rajeevdixit-16/ArtHive):** Online art-sharing platform with AI-powered tagging and real-time interactions  
-- 🏛️ **[CivicFix](https://github.com/rajeevdixit-16/CivicFix-AI):** An AI driven citizen first civic engagement platform  
-- 💼 **[Insider Jobs](https://github.com/rajeevdixit-16/Insider-Jobs):** Job search portal with filters and user authentication  
+- 📚 **[CodePrep AI](https://github.com/rajeevdixit-16/codeprep):** Personalized interview preparation powered by AI, adaptive learning, resume analysis, and RAG-based technical guidance.  
+- 🖼️ **[ArtHive](https://github.com/rajeevdixit-16/ArtHive):** A social platform for artists to showcase, discover, and interact with creative artwork through AI-powered tagging and real-time engagement.  
+- 📱 **[Social Pilot](https://github.com/rajeevdixit-16/SocialPilot):** A comprehensive social media management platform for scheduling posts, managing content, and tracking engagement across multiple channels.  
+- 🏛️ **[CivicFix](https://github.com/rajeevdixit-16/CivicFix-AI):** An AI-powered civic engagement platform that enables citizens to report public issues, track resolutions, and collaborate with authorities for faster community problem-solving.
 
 ---
 
-### 📈 GitHub Stats
+### 🌱 Currently Learning
 
-![Rajeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevdixit-16&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevdixit-16&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=rajeevdixit-16&theme=tokyonight&hide_border=true)
-
+- 🔗 LangChain & AI Workflows
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 🧠 Machine Learning Fundamentals
 
 ---
 
