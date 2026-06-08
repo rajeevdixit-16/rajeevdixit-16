@@ -32,6 +32,15 @@
 
 ---
 
+
+### 📊 GitHub Stats:
+
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevdixit-16&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rajeevdixit-16&theme=gotham)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=rajeevdixit-16&theme=juicyfresh&no-bg=true" />
+
+---
+
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-dixit-892526346/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/rajeevdixit-16)  
